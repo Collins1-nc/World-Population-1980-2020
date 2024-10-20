@@ -1,4 +1,4 @@
-# World-Population-1980-2020
+# World Population 1980-2020
 
 ### Project Overview
 
